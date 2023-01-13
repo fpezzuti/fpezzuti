@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :books: I’m a MSc student in Artificial Intelligence & Data Engineering
+- :books: I’m currently a MSc student in Artificial Intelligence & Data Engineering
+- :eyes: I'm interested in Data Engineering, Information Retrieval & Cloud Computing
 - 
-- :speech_balloon: I really like logic games
+- :bulb: I really like logic games
+- :mailbox: You can find me on [Linkedin](https://www.linkedin.com/in/francesca-p-131364255/) or you can send me an [email](francesca.pzt@gmail.com)
 
