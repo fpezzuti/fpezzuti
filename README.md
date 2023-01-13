@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Francesca :computer:
 
 <!--
 **fpezzuti/fpezzuti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- :books: I’m a MSc student in Artificial Intelligence & Data Engineering
+- 
+- :speech_balloon: I really like logic games
+
