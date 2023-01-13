@@ -1,4 +1,4 @@
-### Hi there, I'm Francesca :computer:
+### Hi there, I'm Francesca :woman_technologist:
 
 <!--
 **fpezzuti/fpezzuti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
