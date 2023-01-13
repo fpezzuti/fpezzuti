@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - :eyes: I'm interested in Data Engineering, Information Retrieval & Cloud Computing
 - 
 - :bulb: I really like logic games
-- :mailbox: You can find me on [Linkedin](https://www.linkedin.com/in/francesca-p-131364255/) or you can send me an [email](francesca.pzt@gmail.com)
+- :mailbox: You can find me on [Linkedin](https://www.linkedin.com/in/francesca-p-131364255/) or you can send me an [email](mailto:francesca.pzt@gmail.com)
 
