@@ -2,7 +2,7 @@
 
 ### :wave: I'm a MSc student in Artificial Intelligence & Data Engineering
 
-- :books: I pursued a **master degree** in _Artificial Intelligence & Data Engineering_ at the University of Pisa.
+- :books: I pursued a **master's degree** in _Artificial Intelligence & Data Engineering_ at the University of Pisa.
 - :eyes: I'm interested in Information Retrieval, Artificial Intelligence & Cloud Computing
 - :bulb: I really like logic games
 
