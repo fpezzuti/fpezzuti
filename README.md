@@ -21,7 +21,7 @@
 - [BloomFilter MapReduce](https://github.com/fpezzuti/BloomFilter-MapReduce)
 - [LearnIt!](https://github.com/fpezzuti/LearnIt)
 
-**Queueing theory** and **statistics**:
+**Queuing theory** and **simulations**:
 - [Performance Evaluation of a Deficit Scheduler](https://github.com/fpezzuti/PerformanceEvaluationOfDeficitScheduler)
 
 **Other**:
