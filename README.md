@@ -4,9 +4,9 @@
 
 - :books: I pursued a **master's degree** in _Artificial Intelligence & Data Engineering_ at the University of Pisa.
 - :eyes: I'm interested in Information Retrieval, Artificial Intelligence & Cloud Computing
-- :bulb: I really like logic games
+- :bulb: I like logic games
 
-### :mega: Some of my projets:
+### :mega: Some of my projects:
 
 **AI** and **Machine Learning**:
 - [Malaria Detector CNN](https://github.com/fpezzuti/MalariaDetectorCNN)
@@ -31,7 +31,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,pytorch,tensorflow,matlab,mysql,mongodb,androidstudio,js,html,css,php&perline=7)](https://skillicons.dev)
 
-### :trophy: My Github Stats:
+### :trophy: My GitHub Stats:
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=fpezzuti&theme=dracula">
